@@ -70,16 +70,6 @@ Ziel ist es, **die wichtigsten Einflussfaktoren auf Immobilienpreise** zu identi
 
 ---
 
-## 📦 Installation & Nutzung
-Falls du die Analyse lokal nachverfolgen willst:
-
-```bash
-pip install pandas matplotlib seaborn jupyter
-jupyter notebook notebooks/king_county_analysis.ipynb
-```
-
----
-
 ## 📊 Datenquelle
 Die Daten stammen von **Kaggle**:  
 🔗 [House Sales in King County, USA – Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
