@@ -83,9 +83,3 @@ jupyter notebook notebooks/king_county_analysis.ipynb
 ## 📊 Datenquelle
 Die Daten stammen von **Kaggle**:  
 🔗 [House Sales in King County, USA – Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
-
----
-
-## 🧑‍💻 Kontakt
-Projekt erstellt von **Tim Schulz-Eppers** als **persönliches Data-Analytics-Referenzprojekt**.  
-Bei Fragen oder Feedback gerne über **GitHub** oder **LinkedIn** kontaktieren.
